@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am MD Shahnewaz, a CSE graduate from American International University-Bangladesh with two years of experience. Really passionate about programming and like to solve problems and learn new things every day. Always been enthusiastic about developing Java & JavaScript based applications and also willing to learn new technologies. Able to work independently as well as functioning as an excellent team player 👯 . Currently looking for an opportunity and confident that if given chance can be a useful talent to the company. 😄
+I am MD Shahnewaz, a CSE graduate from American International University-Bangladesh with two years of experience. Really passionate about programming and like to solve problems and learn new things every day. Always been enthusiastic about developing Java & JavaScript based applications and also willing to learn new technologies. Able to work independently as well as functioning as an excellent team player. Currently looking for an opportunity and confident that if given chance can be a useful talent to the company. 😄
 
 <!--
 **ShahAman/ShahAman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
